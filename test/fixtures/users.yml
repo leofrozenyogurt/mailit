@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  name: MyString
+  dob: 2012-10-15
+  city: MyString
+  state: MyString
+  resume: MyText
+  email: MyString
+
+two:
+  name: MyString
+  dob: 2012-10-15
+  city: MyString
+  state: MyString
+  resume: MyText
+  email: MyString
